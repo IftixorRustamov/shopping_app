@@ -56,7 +56,7 @@ class _AdminPageState extends State<AdminPage> {
               Visibility(
                 visible: isVisible,
                 child: const Text(
-                  'The title or detail is empty!',
+                  'The title or detail is empty!!!',
                   style: TextStyle(color: Colors.red, fontSize: 15),
                 ),
               ),
